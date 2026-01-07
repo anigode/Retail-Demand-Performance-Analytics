@@ -1,0 +1,7 @@
+Data/
+Outputs/
+*.csv
+*.parquet
+*.joblib
+.env
+__pycache__/
