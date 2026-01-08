@@ -12,6 +12,7 @@ This project focuses on analyzing retail sales data to uncover demand patterns, 
 - Analysis
 - Evaluation
 - Libraries
+- Tools
 
 # Business Problem
 Retail businesses face challenges in managing inventory and forecasting demand accurately. Common issues include:
@@ -63,6 +64,12 @@ Key preprocessing steps:
 - Accuracy and consistency of sales metrics
 - Identification of seasonal demand patterns
 - Business-ready insights delivered through dashboards
+
+# Tools
+- Jupyter Notebook
+- Power BI
+- Git & GitHub
+- Microsoft Excel
 
 # Libraries
 - pandas
