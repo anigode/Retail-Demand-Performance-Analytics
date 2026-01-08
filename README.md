@@ -65,15 +65,15 @@ Key preprocessing steps:
 - Identification of seasonal demand patterns
 - Business-ready insights delivered through dashboards
 
-# Tools
-- Jupyter Notebook
-- Power BI
-- Git & GitHub
-- Microsoft Excel
-
 # Libraries
 - pandas
 - numpy
 - matplotlib
 - seaborn
 - Power BI
+
+# Tools
+- Jupyter Notebook
+- Power BI
+- Git & GitHub
+- Microsoft Excel
